@@ -15,3 +15,6 @@ I am currently the lead researcher and the head of the R+D department at an engi
 <p align="center">
   <img src="https://github.com/WilliamMAPearson/ML-XCTSegmentaion/blob/main/project/Description/images/final_model.png" width="500">
 </p>
+
+## Get in touch
+* Email: will.pearson08@outlook.com
