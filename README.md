@@ -7,3 +7,7 @@ I am currently the lead researcher and the head of the R+D department at an engi
 * RMA Cathodic Reaction is an optimisation program for modelling corrosion.
 * 3D2D Fractal Analysis for anlysing the three dimensional roughness of material captued with XCT.
 * PyloMap for visualising QUIIME2 Data for biological corrosion.
+
+<p align="center">
+  <img src="https://github.com/WilliamMAPearson/ML-XCTSegmentaion/blob/main/project/Description/images/final_model.png" width="500">
+</p>
