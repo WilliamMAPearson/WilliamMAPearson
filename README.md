@@ -18,3 +18,4 @@ I am currently the lead researcher and the head of the R+D department at an engi
 
 ## Get in touch
 * Email: will.pearson08@outlook.com
+* LinkedIn: https://www.linkedin.com/in/william-pearson-498087223
