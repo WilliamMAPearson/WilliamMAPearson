@@ -1,7 +1,7 @@
-## William Pearson
+## Dr. William Pearson
 
 ## About Me
-I am currently the lead researcher and the head of the R+D department at an engineering consultancy based in Manchester. At this job I am currently developing new technology that will optimise physical assets against uncertain futures using probabilistic/Machine Learning models. This repo serves as a personal repo for my personal projects including:
+I am currently the lead researcher and the head of the R+D department at an engineering consultancy based in Manchester. At this job I am currently developing new technology that will optimise physical assets against uncertain futures using probabilistic/Machine Learning models. I have a PhD in Materials for Demanding Environments from the University of Manchester. This repo serves as a personal repo for my personal projects including:
 
 * XCT Segmentation using pre-trained ML model.
 * RMA Cathodic Reaction is an optimisation program for modelling corrosion.
